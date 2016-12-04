@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_6bac304ec211430521f0b38e55d115caef0f8a0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_8b7f1251c35614c37930ed6cad5ed773995614b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_080d19d9fb6a6a5c8890cf41e8671a88e4e0e80f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_bf3eee4a8ae6093adf05a55223f0c307db641571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_f05987c37ed8656c86623d64ad996251122771a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_8a0dd992ed9bc6970b444047cea78416220d7958.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_a7654a36917eb6796c67bdbafb66a97a77a63fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_bcc014821defe8585fd80db010e0a1c362939966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b6377a967db4d49fa6d5e025a75c46eb89bd9a3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5078c539d10667964fad57548cd2f5de9091a38b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_0aea12ce67af986c894aba000e75e45129a8cea7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_af192cf989b19beee32eb024e023f4162a7f9a72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\VRAPP\videowidget\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab049f0d4e8afee210a893ca9ca71d3c46dca094">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\VRAPP-videowidget-unspecified_ad32126aa3f421ef8ffd04f8210799dc8d59f13b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_89e3637c98cadea08095e7add23819ff5a46f937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_57339cbeb097756d2f700dd844e62992b8571e1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_1318bce986c5d1b0b156af62b4581f1b480c9626.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d9f38a3f02cabb492a72b07a46c7ce376344edfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.10\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d2ea9cdd5b272666e03c7977440b494b63db77c">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\com.google.android.exoplayer-exoplayer-r1.5.10_236e778e536bc52f0d19f1dc340248ccb21b367d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_3c553bd7a8aadddfd8dc1a9d19b260b3439203e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_20855fbffee1ed7edb9d5bfd04f38cd3d301d6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.10\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d2ea9cdd5b272666e03c7977440b494b63db77c">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\com.google.android.exoplayer-exoplayer-r1.5.10_85e4aae1dd0a46b22916a120c5c7530f457aad4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_c8a5aa340c4745f88ab08ac6f2c32ca48fbfcf07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3d09be83ac01a94da772da1b85e802048269fcd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_4f06f280c935ff96e9f427490bab0cb25f0d7511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\StudioDigital\panowidget\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50ffb01fccd0ff8a83bdf1dabc9899597f3fe84e">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\StudioDigital-panowidget-unspecified_f7cddb6d1c356e2fd95867ab96b7ee4d87e1f842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\.gradle\caches\modules-2\files-2.1\com.google.protobuf.nano\protobuf-javanano\3.0.0-alpha-7\52587934797e3433992a9d69178a1471e4a8f85d\protobuf-javanano-3.0.0-alpha-7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="52587934797e3433992a9d69178a1471e4a8f85d">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\protobuf-javanano-3.0.0-alpha-7_fea96a6529ea38f23d3e737e9989fd12c57e4513.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_07f9bedfb1ec7e4474e632e4881cba77dabc1bc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_b9256a7cfc1f4c4f4f21369b84acb41d52df9fc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\StudioDigital\common\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="160fa17236bfe9cb75edc4e47a1e66a49e928c48">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\StudioDigital-common-unspecified_b4ecab4f32168abc3d1b18191acd30f3429982f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_4e1d352c8e093ff295a26548bbe81a19faec6098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_86d1edd5cdd5530ff5a9de3368fbe16129841066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\StudioDigital\commonwidget\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90610ad493c95170a760e1cc53b78ce423ada585">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\StudioDigital-commonwidget-unspecified_4413d42e45f119b49565a74a1590bd57df6939da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_45f513bfcaf24d745c12b9e8303a06fcdd395d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_ab17c1fc8f95b19dba764be63662e81051c305d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_ad27a40131a6bd57e8f11b8c455405d7e10fa4c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_3e12857a0b00d1ddd05df9c18a934c4069c9a636.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_c5e4c54bc1f4488373dbefbde335924d8d5ac5ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_eae8fbfdbe47bed85dca30af98df0f265b7649c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3c8535ed8ae4e73ba425f6cd8ac7abb5d8629193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_acbbfb84829d536056523b731ea41b94029ddc3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\VR_APP\commonwidget\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90610ad493c95170a760e1cc53b78ce423ada585">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\VR_APP-commonwidget-unspecified_1d7e8c6d6413e468c4fc8875098b270e471a70eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7fc218a32daf1037ae69baed83256675d4b375e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_be2c7826905d8332fc5d2c5e1b445699084b99b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_cef973c57ba3b49689df9b8baed91fde01b7db8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\VR_APP\videowidget\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab049f0d4e8afee210a893ca9ca71d3c46dca094">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\VR_APP-videowidget-unspecified_6feeefe75f9eaf803bf4bddcaf771a2a808a5f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_b23076fd82f684fde5b914a5212ea2ba8292e125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_7eb433c50729feeec224d935110ed935bed313c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_7b3b6359ae4bbf55f75090e6d56560dd37ec4fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_16188bbe78963fd5aa6b461e6fceda0fe0d5cab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\VRAPP\panowidget\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50ffb01fccd0ff8a83bdf1dabc9899597f3fe84e">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\VRAPP-panowidget-unspecified_cf819695e8ee3a23c6294ee477eb50e644f50a2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_ec29f67481b8e4d90f3855a9245899979cf8dd7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_9845ec95fee2db2b9d58e20a5656b91267f63497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_43295a882ab5878e63c44209ec51eada3ebe4dba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_58b557af289a0e04679a8c66da5814bca828d935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_3f27ef61b1c5a47a0680034457693dc08f8fdafe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\VRAPP\common\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="160fa17236bfe9cb75edc4e47a1e66a49e928c48">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\VRAPP-common-unspecified_6e8c6ee519c61c2ce8a1bd617df0d9969708708e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_6d016ed91cf9e9c44fc2319d416bbb0b4ddee778.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f8fa962df2317d9ecee17ba8e5a111eb05083d20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\VR_APP\common\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="160fa17236bfe9cb75edc4e47a1e66a49e928c48">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\VR_APP-common-unspecified_a173f740531c9b0689c40ffcdc2516749b351231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.10\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d2ea9cdd5b272666e03c7977440b494b63db77c">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\com.google.android.exoplayer-exoplayer-r1.5.10_c0dcd5084bdfa7978932f978fc43992b994f7eea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a8754e28577bf9f6f172aca2427c9bde9469bf1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\VRAPP\commonwidget\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90610ad493c95170a760e1cc53b78ce423ada585">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\VRAPP-commonwidget-unspecified_86459fab759a5efbb553cbbaaf8aadfdf3dcbf43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\afinocchiaro\Desktop\VRAPP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_ff35006439136e4abbfa6722a7aba98727f1b5f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_e7440228fb4e6ed9b2c578b5f6463331eb822867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_141f469fac39cf73cb6e0e715faa84b083a4a20a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_9a0e79d56fe09cfb8b50f38208282c821c657044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\exploded-aar\VR_APP\panowidget\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50ffb01fccd0ff8a83bdf1dabc9899597f3fe84e">
+        <dex dex="C:\Users\afinocchiaro\VR_APP\app\build\intermediates\pre-dexed\debug\VR_APP-panowidget-unspecified_ac9c7e0362376413c3acbd32e1887a2466df47d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\exploded-aar\StudioDigital\videowidget\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab049f0d4e8afee210a893ca9ca71d3c46dca094">
+        <dex dex="C:\Users\afinocchiaro\Documents\AndroidProjects\StudioDigital\app\build\intermediates\pre-dexed\debug\StudioDigital-videowidget-unspecified_867b8bdc45eab41d5cfba9b7330ae8714158dc17.jar" />
+    </item>
+
+</items>
