@@ -7,3 +7,5 @@ The sample uses two fragments that display an embedded panoramic image and a vid
 The app which demonstrate the VR View functionality in the SDK. I recommend using a phone with gyroscope.
 
 Link to the sdk https://developers.google.com/vr/android/
+
+Link APP on Google Play https://play.google.com/store/apps/details?id=it.alex.finocchiaro.vrapp
